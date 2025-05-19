@@ -19,13 +19,23 @@ This GitHub is organized to reflect the breadth and depth of my work. Each proje
 - 📈 Key insights, outcomes, or models  
 - 🖼️ Visuals (charts, dashboards, or demos where applicable)  
 
-### 🔗 Featured Repositories (Coming Soon)
-- `healthcare-thesis-ml`: Predicting stock returns in the healthcare sector using financial fundamentals, momentum, and analyst estimates  
-- `portfolio-tracker-streamlit`: A sleek Streamlit app to track personal investments, visualize returns, and export reports  
-- `analyst-scoring-capstone`: Ranking equity analysts based on forecast accuracy using machine learning  
-- `clustering-airbnb`: Customer segmentation project using unsupervised learning (R & Python versions)  
+### 🔗 Featured Repositories
 
----
+- [`healthcare-thesis-ml`](https://github.com/EnricAleta/healthcare-thesis-ml)  
+  ML-based model to predict healthcare stock returns using financial fundamentals, momentum, and analyst estimates.
+
+- [`portfolio-tracker-app`](https://github.com/EnricAleta/portfolio-tracker-app)  
+  A Streamlit app to manage personal portfolios, track buy/sell operations, visualize performance, and generate reports.
+
+- [`employee-attrition-ml`](https://github.com/EnricAleta/employee-attrition-ml)  
+  Predicting employee attrition using classification and clustering techniques to support HR decisions.
+
+- [`Credit-Risk-Investment-Strategy-Optimization`](https://github.com/EnricAleta/Credit-Risk-Investment-Strategy-Optimization)  
+  Optimizing lending strategies by predicting loan default risk using real-world financial data.
+
+- [`AletaBank-Copilot`](https://github.com/EnricAleta/AletaBank-Copilot)  
+  A live banking assistant prototype powered by LLMs and Streamlit. Try it [here](https://banking-copilot.onrender.com) (5 min load time).
+
 
 ## 🧰 Tools & Skills
 **Languages:** Python, R, SQL, VBA  
