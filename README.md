@@ -38,9 +38,19 @@ This GitHub is organized to reflect the breadth and depth of my work. Each proje
 
 
 ## 🧰 Tools & Skills
-**Languages:** Python, R, SQL, VBA  
-**Finance Tools:** Bloomberg Terminal, Excel, PowerPoint  
+**Languages:** Python, R, SQL, VBA, STATA, Power BI 
+**Finance Tools:** Excel, PowerPoint, Bloomberg Terminal, FACTSET
 **Tech Stack:** GitHub, VS Code, Jupyter, Amazon Web Services (AWS), Docker  
+**Core Skills:**  
+- Financial Modeling & Valuation  
+- Investment Research & Portfolio Analysis  
+- Data Analysis & Visualization  
+- Supervised & Unsupervised Machine Learning  
+- Predictive Modeling & Classification  
+- Streamlit App Development  
+- Time Series & Forecasting  
+- Feature Engineering & Model Evaluation  
+- Dashboard Design (KPIs, Reports)
 
 ---
 
