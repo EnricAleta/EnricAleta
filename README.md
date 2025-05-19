@@ -4,9 +4,9 @@
 
 ---
 
-I'm passionate about bridging the worlds of finance and technology. After completing a degree in Economics at UPF, I pursued a Master’s in Business Analytics at ESADE to dive deep into data-driven decision making. My goal is to apply this hybrid background to roles in Private Equity, Asset Management, or Investment Banking where I can combine rigorous financial analysis with machine learning, automation, and market intelligence.
+I'm passionate about bridging the worlds of finance and data science. After completing a degree in Economics at UPF, I pursued a Master’s in Business Analytics at ESADE to dive deep into financial analytics. My goal is to apply this hybrid background to roles in Private Equity, Asset Management, or Investment Banking where I can combine rigorous financial analysis with machine learning, automation, and market intelligence.
 
-In parallel, I’ve built a portfolio of projects that reflect my analytical mindset and interest in real-world applications, ranging from predictive models in healthcare investing to portfolio tracking apps in Streamlit.
+In parallel, I’ve built a portfolio of projects that reflect my analytical mindset and interest in real-world applications beyond the scope of finance, ranging from predictive models in healthcare investing to portfolio tracking apps in Streamlit.
 
 ---
 
